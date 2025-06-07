@@ -1,4 +1,4 @@
-# Smart Glasses for the Blind and Poor
+# Smart Glasses for the Blind and Deaf
 
 A low-cost assistive device designed to empower visually and hearing-impaired individuals by combining obstacle detection with sign language recognition using embedded systems and machine learning.
 
